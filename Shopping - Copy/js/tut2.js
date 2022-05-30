@@ -1,0 +1,1 @@
+document.write('This Is Tut 6')
